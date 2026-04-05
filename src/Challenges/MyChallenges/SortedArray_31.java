@@ -1,4 +1,3 @@
-
 package Challenges.MyChallenges;
 
 public class SortedArray_31 {
